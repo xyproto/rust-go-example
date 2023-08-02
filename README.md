@@ -25,3 +25,5 @@ println!("The answer is: {}", result);
 ```
 
 Tested on Arch Linux.
+
+`cargo build` to build and `cargo run` to run is enough, setting `LD_LIBRARY_PATH` manually was not needed here.
